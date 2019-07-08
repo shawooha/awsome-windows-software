@@ -30,3 +30,10 @@ This is just a memo for myself, which software and where to download and install
 ## Browse PDFs, books, etc.
 - Foxit Reader | https://www.foxitsoftware.com/pdf-reader/
 - FBReader | https://fbreader.org/
+
+## Record Desktop
+- OBS| https://obsproject.com/
+
+## Video editors
+- ShotCut | https://www.shotcut.org/download/
+- OpenShot | https://www.openshot.org/download/
