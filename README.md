@@ -32,8 +32,11 @@ This is just a memo for myself, which software and where to download and install
 - FBReader | https://fbreader.org/
 
 ## Record Desktop
-- OBS| https://obsproject.com/
+- OBS | https://obsproject.com/
 
 ## Video editors
 - ShotCut | https://www.shotcut.org/download/
 - OpenShot | https://www.openshot.org/download/
+
+## Time tracking
+Free stopwatch | http://free-stopwatch.com/
