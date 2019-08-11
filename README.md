@@ -54,5 +54,5 @@ Transmission | https://transmissionbt.com/
 - HDDScan | http://hddscan.com/
 - SmarTTY | https://sysprogs.com/SmarTTY/download/
 - WinSCP | https://winscp.net/eng/index.php
-- PTTY | https://www.putty.org/
+- PuTTY | https://www.putty.org/
 - uGet | https://ugetdm.com/
