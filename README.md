@@ -4,6 +4,7 @@ This is just a memo for myself, which software and where to download and install
 
 ## Make a bootable flash drive
 Rufus | https://rufus.ie/
+WinFLASHTool | https://sysprogs.com/winflashtool/
 
 ## Tweak Windows System
 - O&O ShutUp | https://www.oo-software.com/en/shutup10
@@ -46,3 +47,12 @@ Free stopwatch | http://free-stopwatch.com/
 
 ## Torrent client
 Transmission | https://transmissionbt.com/
+
+## Misc
+- WinCDEmu | https://wincdemu.sysprogs.org/
+- CrystalDiskInfo | https://crystalmark.info/en/software/crystaldiskinfo/
+- HDDScan | http://hddscan.com/
+- SmarTTY | https://sysprogs.com/SmarTTY/download/
+- WinSCP | https://winscp.net/eng/index.php
+- PTTY | https://www.putty.org/
+- uGet | https://ugetdm.com/
