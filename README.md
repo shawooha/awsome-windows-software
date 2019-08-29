@@ -3,8 +3,8 @@
 This is just a memo for myself, which software and where to download and install, when setting up a fresh Windows system. These are mostly free software.
 
 ## Make a bootable flash drive
-Rufus | https://rufus.ie/
-WinFLASHTool | https://sysprogs.com/winflashtool/
+- Rufus | https://rufus.ie/
+- WinFLASHTool | https://sysprogs.com/winflashtool/
 
 ## Tweak Windows System
 - O&O ShutUp | https://www.oo-software.com/en/shutup10
