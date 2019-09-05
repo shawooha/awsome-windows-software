@@ -8,6 +8,7 @@ This is just a memo for myself, which software and where to download and install
 
 ## Tweak Windows System
 - O&O ShutUp | https://www.oo-software.com/en/shutup10
+- Windows Privacy Dashboard | https://wpd.app
 
 ## View/convert images
 - XnView | https://www.xnview.com/en/
