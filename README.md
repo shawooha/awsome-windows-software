@@ -44,10 +44,11 @@ This is just a memo for myself, which software and where to download and install
 - OpenShot | https://www.openshot.org/download/
 
 ## Time tracking
-Free stopwatch | http://free-stopwatch.com/
+- Free stopwatch | http://free-stopwatch.com/
 
 ## Torrent client
-Transmission | https://transmissionbt.com/
+- Transmission | https://transmissionbt.com/
+- PicoTorrent | https://picotorrent.org/ | has portable ver
 
 ## Misc
 - WinCDEmu | https://wincdemu.sysprogs.org/
