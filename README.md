@@ -57,4 +57,5 @@ This is just a memo for myself, which software and where to download and install
 - SmarTTY | https://sysprogs.com/SmarTTY/download/
 - WinSCP | https://winscp.net/eng/index.php
 - PuTTY | https://www.putty.org/
+- KiTTY | http://www.9bis.net/kitty/#!index.md
 - uGet | https://ugetdm.com/
