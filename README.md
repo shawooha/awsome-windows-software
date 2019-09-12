@@ -50,6 +50,9 @@ This is just a memo for myself, which software and where to download and install
 - Transmission | https://transmissionbt.com/
 - PicoTorrent | https://picotorrent.org/ | has portable ver
 
+## Console emulator
+- CMDER | https://cmder.net/
+
 ## Misc
 - WinCDEmu | https://wincdemu.sysprogs.org/
 - CrystalDiskInfo | https://crystalmark.info/en/software/crystaldiskinfo/
