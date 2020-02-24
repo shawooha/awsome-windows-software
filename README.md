@@ -22,6 +22,9 @@ This is just a memo for myself, which software and where to download and install
 - Double Commander | https://doublecmd.sourceforge.io/
 - FreeCommander | https://freecommander.com/en/downloads/ (note that 64-bit version is paid)
 
+# Firewall
+- Evorim Free Firewall | https://www.evorim.com/en/free-firewall#   
+
 ## Play music
 - Foobar2000 | https://www.foobar2000.org/
 - AIMP | http://www.aimp.ru/
@@ -62,3 +65,4 @@ This is just a memo for myself, which software and where to download and install
 - PuTTY | https://www.putty.org/
 - KiTTY | http://www.9bis.net/kitty/#!index.md
 - uGet | https://ugetdm.com/
+- Pazera Free Audio Extractor (extract audio from video) | http://www.pazera-software.com/products/audio-extractor/
