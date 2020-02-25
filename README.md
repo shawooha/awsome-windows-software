@@ -51,7 +51,7 @@ This is just a memo for myself, which software and where to download and install
 
 ## Torrent client
 - Transmission | https://transmissionbt.com/
-- PicoTorrent | https://picotorrent.org/ | has portable ver
+- Qbittorrent | https://www.qbittorrent.org/
 
 ## Console emulator
 - CMDER | https://cmder.net/
