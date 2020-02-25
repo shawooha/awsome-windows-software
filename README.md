@@ -22,7 +22,7 @@ This is just a memo for myself, which software and where to download and install
 - Double Commander | https://doublecmd.sourceforge.io/
 - FreeCommander | https://freecommander.com/en/downloads/ (note that 64-bit version is paid)
 
-# Firewall
+## Firewall
 - Evorim Free Firewall | https://www.evorim.com/en/free-firewall#   
 
 ## Play music
